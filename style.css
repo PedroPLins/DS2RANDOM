@@ -1,0 +1,56 @@
+
+
+body{
+
+background: url("https://wallpapercave.com/wp/wp1980933.jpg")no-repeat center;
+background-size: 150%;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+
+
+
+
+.form{
+	background-color: rgba(15,100,60,0.5);
+	padding: 2rem;
+	border-radius: 1rem;
+	text-align: center;
+	border-style: groove;
+	border: 0.3rem groove #333  ;
+	}
+	
+.form #buto{
+
+  display: center;
+  flex-direction: center;
+   padding: 6px 14px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  border-radius: 6px;
+  border: solid 0.1px black;
+
+  background: #6E6D70;
+  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+  color: #DFDEDF;
+  user-select: none;
+  
+}
+
+.form h1{
+
+
+	font-family: 'Cormorant Garamond', serif;
+	padding: 1rem;
+}
+
+.form p {
+
+	font-family: 'Cormorant Garamond', serif;
+
+font-size: 50px;
+}
